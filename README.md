@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--my-wknd-commerce--sherestm83.hlx.page/
-- Live: https://main--my-wknd-commerce--sherestm83.hlx.live/
+- Preview: https://main--my-wknd-commerce--shreshthm83.hlx.page/
+- Live: https://main--my-wknd-commerce--shreshthm83.hlx.live/
 
 ## Pre-requisites
 
