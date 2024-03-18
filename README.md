@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--xsc-wknd-commerce--hlxsites.hlx.page/
-- Live: https://main--xsc-wknd-commerce--hlxsites.hlx.live/
+- Preview: https://main--my-wknd-commerce--hlxsites.hlx.page/
+- Live: https://main--my-wknd-commerce--hlxsites.hlx.live/
 
 ## Pre-requisites
 
