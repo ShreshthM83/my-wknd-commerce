@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/alturaeds/Shared%20Documents/lpbeds/shmehta/my-wknd-eds?csf=1&web=1&e=WeWNTL
+  /: https://adobe.sharepoint.com/sites/alturaeds/Shared%20Documents/lpbeds/shmehta/my-wknd-eds
 
 folders:
   /products/: /products/default
